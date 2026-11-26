@@ -21,7 +21,8 @@ O projeto simula uma loja virtual com navegação entre páginas, listagem de pr
 ---
 
 ## Estrutura do Projeto
-```loja-drip/
+```
+loja-drip/
 ├── src/
 │ ├── assets/ # Imagens e ícones
 │ ├── components/ # Componentes reutilizáveis
